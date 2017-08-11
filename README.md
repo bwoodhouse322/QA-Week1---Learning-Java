@@ -1,2 +1,4 @@
 # QA-Week1---Learning-Java
 Some OOP Java exercises
+
+FILE PATHS WILL NEED CHANGING FOR SOME PROGRAMS
