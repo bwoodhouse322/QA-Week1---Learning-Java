@@ -1,0 +1,1 @@
+Item [ID=1001, name=Moby Dick, author=C. Dickens= isHardBack true]
